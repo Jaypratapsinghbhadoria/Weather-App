@@ -42,7 +42,7 @@ async function checkWeather(city) {
         case "Snow":
             weatherimg.src = "./128/snow.png";
             break;
-        case "clear sky":
+        case "Clear":
             weatherimg.src = "./128/day_clear.png";
             break;
         case "mist":
